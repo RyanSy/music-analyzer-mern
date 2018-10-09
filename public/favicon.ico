@@ -1,0 +1,4 @@
+--2018-10-09 09:03:36--  ftp://data/image/jpeg
+           => ‘jpeg’
+Resolving data (data)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘data’
